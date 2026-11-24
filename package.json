@@ -1,0 +1,5 @@
+{
+  "name": "cancertracker-relay",
+  "private": true,
+  "type": "module"
+}
